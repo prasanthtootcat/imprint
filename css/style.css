@@ -17,7 +17,7 @@ body {
 }
 
 h1 {
-    font-size: 250%
+    font-size: 250%;
 }
 
 p {
@@ -97,7 +97,7 @@ img:last-of-type {
 }
 
 #title {
-    background-image: url("https://cmeimg-a.akamaihd.net/640/photos.demandstudios.com/getty/article/69/85/185510838.jpg");
+    background-image: url("../img/title.png");
     z-index:2;
 }
 
@@ -114,20 +114,16 @@ img:last-of-type {
 }
 
 #slide2 {
-    background-image: url("https://lorempixel.com/640/480/abstract/3/");
+    background-image: url("http://7-themes.com/data_images/out/20/6837675-solid-color-background.jpg");
     z-index:2;
 }
 
 #slide3:before {
-    background-image: url("https://lorempixel.com/640/480/abstract/5/");
+    background-image: url("http://www.powerpointhintergrund.com/uploads/2017/05/solid-color-background-teal-free-blue-lor-backgrounds-just--26.jpeg");
     transform: translateZ(-1px) scale(2);
 }
 
 #slide4 {
-    background: #222;
+    background: #5BC0DE;
 }
-
-/*
-navbar
-*/
 
